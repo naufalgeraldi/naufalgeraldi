@@ -23,7 +23,6 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
 </p>
 
-<br/>
 
 
 ## Connect with me:
