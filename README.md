@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @naufalgeraldi
-- 👀 I’m interested in you hehe
-- 🌱 I’m currently learning at Universitas Pendidikan Indonesia Majoring Software Engineer
-- 📫 You can reach me on instagram @naufalgeraldi or my Linkedin Naufal Geraldi
+- I’m interested in Creative Industries and Technology
+- I’m currently learning at Universitas Pendidikan Indonesia Majoring Software Engineering
+- You can reach me on instagram @naufalgeraldi or my Linkedin Naufal Geraldi
