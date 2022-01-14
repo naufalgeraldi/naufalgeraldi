@@ -23,7 +23,16 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
 </p>
 
+<br>
 
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalgeraldi&show_icons=true&theme=github_dark)
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=naufalgeraldi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 ## Connect with me:
 <p align="left">
