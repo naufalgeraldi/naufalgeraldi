@@ -30,8 +30,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=naufalgeraldi&theme=github)](https://github.com/naufalgeraldi/github-readme-activity-graph)
-
+[![Naufal's github activity graph](https://activity-graph.herokuapp.com/graph?username=naufalgeraldi&theme=github)]
 <br/>
 
 ## Connect with me:
