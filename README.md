@@ -6,7 +6,7 @@
 
 - I’m interested in Creative Industries and Technology
 - I’m currently learning at Universitas Pendidikan Indonesia Majoring Software Engineering
-- How to reach me **naufalgeraldi@gmail.com**
+- How to reach me? at **naufalgeraldi@gmail.com**
 
 ## 🚀 Languages and Tools:
 
