@@ -30,8 +30,6 @@
 
 <br>
 
-[![Naufal's github activity graph](https://activity-graph.herokuapp.com/graph?username=naufalgeraldi&theme=github)]
-<br/>
 
 ## Connect with me:
 <p align="left">
