@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **User Interface and User Experience Design**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1UigwW6-M_6oS_v5gOqNfZhJfPx2VHXNr/view?usp=drive_link](https://drive.google.com/file/d/1UigwW6-M_6oS_v5gOqNfZhJfPx2VHXNr/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [Portofolio](https://drive.google.com/file/d/1UigwW6-M_6oS_v5gOqNfZhJfPx2VHXNr/view?usp=drive_link)
 
 - 📫 How to reach me **naufalgeraldi@gmail.com**
 
